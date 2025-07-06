@@ -1,6 +1,6 @@
 # 🚀 Hybrid Docker Compose Deployment with Ansible
 
-This project demonstrates how to use **Ansible** to deploy a `docker-compose` service to both a **on-premises** and a **cloud Linux server**, with automated container shutdown to optimize costs.
+This project demonstrates how to use **Ansible** to deploy a `docker-compose` service to both **on-premises** and a **cloud Linux server**.
 
 ---
 
