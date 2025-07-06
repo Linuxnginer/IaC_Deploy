@@ -1,6 +1,6 @@
 # 🚀 Hybrid Docker Compose Deployment with Ansible
 
-This project demonstrates how to use **Ansible** to deploy a `docker-compose` service to both an **on-premises server** and a **cloud server**, with automated container shutdown to optimize costs.
+This project demonstrates how to use **Ansible** to deploy a `docker-compose` service to both a **on-premises** and a **cloud Linux server**, with automated container shutdown to optimize costs.
 
 ---
 
@@ -17,7 +17,7 @@ This project demonstrates how to use **Ansible** to deploy a `docker-compose` se
 ## 🌐 Supported Environments
 
 - RHEL/CentOS 8/9 (or compatible)
-- Cloud servers (e.g., AWS, GCP, Hetzner)
+- Cloud servers (e.g., AWS, Azure, GCP)
 - On-prem VMs or bare metal
 
 ---
